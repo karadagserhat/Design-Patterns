@@ -3,43 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\baseproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\baseproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DesignPatternDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\models\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\models\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\strategy\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{211F62C1-4298-45F5-B156-F6959F6057B3}|Strategy\\Strategy.csproj|solutionrelative:strategy\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,124 +54,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\appsettings.json",
-              "RelativeDocumentMoniker": "BaseProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\appsettings.json",
-              "RelativeToolTip": "BaseProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-08T03:20:26.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "BaseProject\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Models\\AppUser.cs",
-              "RelativeToolTip": "BaseProject\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T03:27:45.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dbo.AspNetUsers.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DesignPatternDb/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DesignPatternDb/True/SqlTable/dbo.AspNetUsers.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-08T03:50:18.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "BaseProject\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "BaseProject\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T09:20:52.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "BaseProject\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "BaseProject\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T09:28:26.679Z",
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Models\\Settings.cs",
+              "RelativeDocumentMoniker": "Strategy\\Models\\Settings.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Models\\Settings.cs",
+              "RelativeToolTip": "Strategy\\Models\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:34:21.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BaseProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BaseProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB0AAAA5AAAAAAAAAA==",
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Strategy\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Strategy\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:37:02.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Strategy\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "Strategy\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-08T09:31:26.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseProject",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\BaseProject.csproj",
-              "RelativeDocumentMoniker": "BaseProject\\BaseProject.csproj",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\BaseProject.csproj",
-              "RelativeToolTip": "BaseProject\\BaseProject.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-08T09:33:35.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BaseProject\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BaseProject\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-08T09:33:42.461Z",
+              "WhenOpened": "2025-06-08T13:39:01.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Program.cs",
-              "RelativeDocumentMoniker": "BaseProject\\Program.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Program.cs",
-              "RelativeToolTip": "BaseProject\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Strategy\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Strategy\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T03:17:52.5Z"
+              "WhenOpened": "2025-06-08T13:42:37.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppIdentityDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Models\\AppIdentityDbContext.cs",
-              "RelativeDocumentMoniker": "BaseProject\\Models\\AppIdentityDbContext.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Models\\AppIdentityDbContext.cs",
-              "RelativeToolTip": "BaseProject\\Models\\AppIdentityDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Strategy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Strategy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T03:15:48.753Z"
+              "WhenOpened": "2025-06-08T13:43:48.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Strategy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Strategy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T13:49:25.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Program.cs",
+              "RelativeToolTip": "Strategy\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:46:19.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Strategy\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Strategy\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T15:54:07.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Strategy\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Strategy\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Strategy\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:21:59.392Z",
+              "EditorCaption": ""
             }
           ]
         }
