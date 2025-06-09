@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{73F119B4-F10C-4291-B1E7-E50DEE10AE65}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{73F119B4-F10C-4291-B1E7-E50DEE10AE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73F119B4-F10C-4291-B1E7-E50DEE10AE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73F119B4-F10C-4291-B1E7-E50DEE10AE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

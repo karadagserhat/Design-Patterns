@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\chainofresponsibility\\migrations\\20250609181603_addproductentityupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\migrations\\20250609181603_addproductentityupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\chainofresponsibility\\models\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB6921B-B7ED-4B12-8F9F-BAC3011D3AF3}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\models\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\eventhandlers\\creatediscounteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\eventhandlers\\creatediscounteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\eventhandlers\\createduserwriteconsoleeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\eventhandlers\\createduserwriteconsoleeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\events\\usercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\events\\usercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\observer\\iuserobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\observer\\iuserobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\observer\\userobservercreatediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\observer\\userobservercreatediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\serha\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Migrations\\20250609181515_AddProductEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChainOfResponsibility\\Migrations\\20250609181515_AddProductEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,106 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Observer\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Observer\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwEQAAABWAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250609181515_AddProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Migrations\\20250609181515_AddProductEntity.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Migrations\\20250609181515_AddProductEntity.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Migrations\\20250609181515_AddProductEntity.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Migrations\\20250609181515_AddProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:39:22.529Z",
+              "WhenOpened": "2025-06-09T18:15:15.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Views\\Account\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "Observer\\Views\\Account\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Views\\Account\\SignUp.cshtml",
-              "RelativeToolTip": "Observer\\Views\\Account\\SignUp.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-09T16:45:17.131Z",
+              "DocumentIndex": 1,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Models\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Models\\AppIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Models\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Models\\AppIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:15:21.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Program.cs",
-              "RelativeDocumentMoniker": "Observer\\Program.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Program.cs",
-              "RelativeToolTip": "Observer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "20250609181603_AddProductEntityUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Migrations\\20250609181603_AddProductEntityUpdated.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Migrations\\20250609181603_AddProductEntityUpdated.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\ChainOfResponsibility\\Migrations\\20250609181603_AddProductEntityUpdated.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Migrations\\20250609181603_AddProductEntityUpdated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:54:01.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserCreatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Events\\UserCreatedEvent.cs",
-              "RelativeDocumentMoniker": "Observer\\Events\\UserCreatedEvent.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Events\\UserCreatedEvent.cs",
-              "RelativeToolTip": "Observer\\Events\\UserCreatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:19:16.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreatedUserWriteConsoleEventHandler.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\EventHandlers\\CreatedUserWriteConsoleEventHandler.cs",
-              "RelativeDocumentMoniker": "Observer\\EventHandlers\\CreatedUserWriteConsoleEventHandler.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\EventHandlers\\CreatedUserWriteConsoleEventHandler.cs",
-              "RelativeToolTip": "Observer\\EventHandlers\\CreatedUserWriteConsoleEventHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:21:25.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateDiscountEventHandler.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\EventHandlers\\CreateDiscountEventHandler.cs",
-              "RelativeDocumentMoniker": "Observer\\EventHandlers\\CreateDiscountEventHandler.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\EventHandlers\\CreateDiscountEventHandler.cs",
-              "RelativeToolTip": "Observer\\EventHandlers\\CreateDiscountEventHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:23:20.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserObserverCreateDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Observer\\UserObserverCreateDiscount.cs",
-              "RelativeDocumentMoniker": "Observer\\Observer\\UserObserverCreateDiscount.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Observer\\UserObserverCreateDiscount.cs",
-              "RelativeToolTip": "Observer\\Observer\\UserObserverCreateDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:34:07.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserObserver.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Observer\\IUserObserver.cs",
-              "RelativeDocumentMoniker": "Observer\\Observer\\IUserObserver.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Observer\\IUserObserver.cs",
-              "RelativeToolTip": "Observer\\Observer\\IUserObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T16:29:25.33Z",
+              "WhenOpened": "2025-06-09T18:16:04.516Z",
               "EditorCaption": ""
             }
           ]
