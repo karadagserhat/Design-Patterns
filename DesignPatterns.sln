@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "Ch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{87C1818A-81EA-423F-B869-7CE8984DFF3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C1818A-81EA-423F-B869-7CE8984DFF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C1818A-81EA-423F-B869-7CE8984DFF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C1818A-81EA-423F-B869-7CE8984DFF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C1818A-81EA-423F-B869-7CE8984DFF3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

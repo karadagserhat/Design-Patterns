@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\observer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73F119B4-F10C-4291-B1E7-E50DEE10AE65}|Observer\\Observer.csproj|solutionrelative:observer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\baseproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE7EADA6-7702-4CCF-8A43-5C20170D6E22}|BaseProject\\BaseProject.csproj|solutionrelative:baseproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Migrations\\20250610024131_AddProductEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Decorator\\Migrations\\20250610024131_AddProductEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\models\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\models\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\decorator\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C1818A-81EA-423F-B869-7CE8984DFF3C}|Decorator\\Decorator.csproj|solutionrelative:decorator\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\composite\\views\\categorymenu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|solutionrelative:composite\\views\\categorymenu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|solutionrelative:composite\\composite\\bookcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Migrations\\20250609185719_AddEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Composite\\Migrations\\20250609185719_AddEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,6 +93,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\composite\\models\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|solutionrelative:composite\\models\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|c:\\users\\serha\\source\\repos\\designpatterns\\composite\\migrations\\20250609185719_addentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1473EB5F-3BBB-4FF4-93CD-901F39FD40C6}|Composite\\Composite.csproj|solutionrelative:composite\\migrations\\20250609185719_addentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 500,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,72 +114,200 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IComponent.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\IComponent.cs",
-              "RelativeDocumentMoniker": "Composite\\Composite\\IComponent.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\IComponent.cs",
-              "RelativeToolTip": "Composite\\Composite\\IComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Decorator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Decorator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:44:13.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Decorator\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Decorator\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:03:59.797Z",
+              "WhenOpened": "2025-06-10T02:45:37.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Decorator\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Decorator\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:46:03.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Decorator\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Decorator\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:52:12.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookComponent.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\BookComponent.cs",
-              "RelativeDocumentMoniker": "Composite\\Composite\\BookComponent.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\BookComponent.cs",
-              "RelativeToolTip": "Composite\\Composite\\BookComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Decorator\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Decorator\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:52:19.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:04:21.935Z",
+              "WhenOpened": "2025-06-10T02:53:46.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Models\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Decorator\\Models\\AppIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Models\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "Decorator\\Models\\AppIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:40:31.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Decorator\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Models\\Product.cs",
+              "RelativeToolTip": "Decorator\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:39:16.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BookComposite.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\BookComposite.cs",
-              "RelativeDocumentMoniker": "Composite\\Composite\\BookComposite.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\BookComposite.cs",
-              "RelativeToolTip": "Composite\\Composite\\BookComposite.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAuwCMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:06:37.179Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Decorator\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Decorator\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:55:50.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryMenuController.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Controllers\\CategoryMenuController.cs",
-              "RelativeDocumentMoniker": "Composite\\Controllers\\CategoryMenuController.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Controllers\\CategoryMenuController.cs",
-              "RelativeToolTip": "Composite\\Controllers\\CategoryMenuController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:11:32.37Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaseProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\BaseProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaseProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:56:46.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Composite\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Composite\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Observer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Observer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Observer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-09T19:20:01.494Z",
+              "WhenOpened": "2025-06-10T02:57:16.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Decorator\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Decorator\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:44:02.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250610024131_AddProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Migrations\\20250610024131_AddProductEntity.cs",
+              "RelativeDocumentMoniker": "Decorator\\Migrations\\20250610024131_AddProductEntity.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Decorator\\Migrations\\20250610024131_AddProductEntity.cs",
+              "RelativeToolTip": "Decorator\\Migrations\\20250610024131_AddProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:41:32.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:57:25.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250609185719_AddEntity.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Migrations\\20250609185719_AddEntity.cs",
+              "RelativeDocumentMoniker": "Composite\\Migrations\\20250609185719_AddEntity.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Migrations\\20250609185719_AddEntity.cs",
+              "RelativeToolTip": "Composite\\Migrations\\20250609185719_AddEntity.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:57:19.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Views\\CategoryMenu\\Index.cshtml",
               "RelativeDocumentMoniker": "Composite\\Views\\CategoryMenu\\Index.cshtml",
@@ -140,33 +320,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250609185719_AddEntity.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Migrations\\20250609185719_AddEntity.cs",
-              "RelativeDocumentMoniker": "Composite\\Migrations\\20250609185719_AddEntity.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Migrations\\20250609185719_AddEntity.cs",
-              "RelativeToolTip": "Composite\\Migrations\\20250609185719_AddEntity.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T18:57:19.676Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Composite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Composite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T19:20:01.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Program.cs",
-              "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAkwDcAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "CategoryMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Controllers\\CategoryMenuController.cs",
+              "RelativeDocumentMoniker": "Composite\\Controllers\\CategoryMenuController.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Controllers\\CategoryMenuController.cs",
+              "RelativeToolTip": "Composite\\Controllers\\CategoryMenuController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T18:57:25.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T19:11:32.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
+              "Title": "BookComposite.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\BookComposite.cs",
+              "RelativeDocumentMoniker": "Composite\\Composite\\BookComposite.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\BookComposite.cs",
+              "RelativeToolTip": "Composite\\Composite\\BookComposite.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:06:37.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookComponent.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\BookComponent.cs",
+              "RelativeDocumentMoniker": "Composite\\Composite\\BookComponent.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\BookComponent.cs",
+              "RelativeToolTip": "Composite\\Composite\\BookComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:04:21.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\IComponent.cs",
+              "RelativeDocumentMoniker": "Composite\\Composite\\IComponent.cs",
+              "ToolTip": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Composite\\IComponent.cs",
+              "RelativeToolTip": "Composite\\Composite\\IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:03:59.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Composite\\Models\\ErrorViewModel.cs",
@@ -174,12 +388,11 @@
               "RelativeToolTip": "Composite\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T18:56:01.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:56:01.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Composite\\Models\\AppUser.cs",
@@ -187,12 +400,11 @@
               "RelativeToolTip": "Composite\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T18:55:49.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:55:49.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "AppIdentityDbContext.cs",
               "DocumentMoniker": "C:\\Users\\serha\\source\\repos\\DesignPatterns\\Composite\\Models\\AppIdentityDbContext.cs",
               "RelativeDocumentMoniker": "Composite\\Models\\AppIdentityDbContext.cs",
@@ -200,8 +412,7 @@
               "RelativeToolTip": "Composite\\Models\\AppIdentityDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T18:55:38.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T18:55:38.747Z"
             }
           ]
         }
